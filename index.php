@@ -6,6 +6,22 @@
         <title>Welcome Page</title>
     </head>
     <body style="background-color:white">
+	    
+	    <div style="text:align:center;">
+  <table style="margin:0px auto" border="1" width="200" align="center">
+    <tr>
+      <td><b>Invoice number: </b></td>
+    </tr>
+  </table>
+  <br />
+  <table style="margin:0px auto"border="1" width="200" align="center">
+    <tr>
+      <td>Client</td>
+    </tr>
+  </table>
+  <br />
+</div>
+	    
         <div style="display:block;margin-left:auto;margin-right:auto;text-align:center;">
             <h2>Welcome to </h2>
         </div>
