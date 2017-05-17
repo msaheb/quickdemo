@@ -14,7 +14,6 @@
         </div>
 	
 	 <div style="display:block;margin-left:auto;margin-right:auto;text-align:center;">
-        </div>
 	    <h2>Application Information</h2>
           <table border="1">
             <thead>
@@ -34,5 +33,6 @@
               </tr>
             </tbody>
           </table>
+		 </div>
     </body>
 </html>
