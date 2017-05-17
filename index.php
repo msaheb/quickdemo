@@ -15,7 +15,7 @@
 	
 	 <div style="display:block;margin-left:auto;margin-right:auto;text-align:center;">
 	    <h2>Application Information</h2>
-          <table border="1">
+          <table table class="table table-striped table-bordered table-hover">
             <thead>
               <tr>
                 <th>Env Var</th>
