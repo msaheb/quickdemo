@@ -12,9 +12,11 @@
 	<div style="width:400px;height:200px;overflow:hidden;display:block;margin-left:auto;margin-right:auto;">
             <img src="openshift.png" width="400px" height="auto"/>
         </div>
-	    
+	
+	 <div style="display:block;margin-left:auto;margin-right:auto;text-align:center;">
+        </div>
 	    <h2>Application Information</h2>
-          <table class="table table-striped table-bordered table-hover">
+          <table border="1">
             <thead>
               <tr>
                 <th>Env Var</th>
