@@ -14,6 +14,11 @@
             <img src="openshift.png" width="400px" height="auto"/>
         </div>
 	
+	<div style="display:block;margin-left:auto;margin-right:auto;text-align:center;">
+            <h2>Application Information</h2>
+		<p> The server IP <b><?php echo $_SERVER['SERVER_ADDR'] ?></b>
+		    and the port number is <b><?php echo $_SERVER['SERVER_PORT'] ?> </b></p>
+        </div>
 	    <h2>Application Information</h2>
 	    <p> The server IP <?php echo $_SERVER['SERVER_ADDR'] ?> and the port nulber is <?php echo $_SERVER['SERVER_PORT'] ?> </p>
           <table table align="center>
