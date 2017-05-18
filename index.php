@@ -10,13 +10,13 @@
         <div style="display:block;margin-left:auto;margin-right:auto;text-align:center;">
             <h2>Welcome to you quick demo application running on</h2>
         </div>
-	<div style="width:400px;height:100px;overflow:hidden;display:block;margin-left:auto;margin-right:auto;">
+	<div style="width:400px;height:60px;overflow:hidden;display:block;margin-left:auto;margin-right:auto;">
             <img src="openshift.png" width="400px" height="auto"/>
         </div>
 	
 	<div style="display:block;margin-left:auto;margin-right:auto;text-align:center;">
-            <h2>Application Information</h2>
-		<p> The server IP <b><?php echo $_SERVER['SERVER_ADDR'] ?></b>
+            <h3>Application Information</h3>
+		<p> The internal server IP is <b><?php echo $_SERVER['SERVER_ADDR'] ?></b>
 		    and the port number is <b><?php echo $_SERVER['SERVER_PORT'] ?> </b></p>
         </div>
 
