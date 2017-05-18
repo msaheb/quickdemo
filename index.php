@@ -31,7 +31,7 @@
 	
 	 <div style="display:block;margin-left:auto;margin-right:auto;text-align:center;">
 	    <h2>Application Information</h2>
-          <table table class="table table-striped table-bordered table-hover">
+          <table table style="margin:0px auto" border="1" width="200" align="center>
             <thead>
               <tr>
                 <th>Env Var</th>
