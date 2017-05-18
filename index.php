@@ -30,7 +30,7 @@
         </div>
 	
 	    <h2>Application Information</h2>
-          <table table border="1" align="center>
+          <table table align="center>
             <thead>
               <tr>
                 <th>Env Var</th>
