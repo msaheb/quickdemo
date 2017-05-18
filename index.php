@@ -29,9 +29,8 @@
             <img src="openshift.png" width="400px" height="auto"/>
         </div>
 	
-	 <div style="display:block;margin-left:auto;margin-right:auto;text-align:center;">
 	    <h2>Application Information</h2>
-          <table table style="margin:0px auto" border="1" width="200" align="center>
+          <table table border="1" align="center>
             <thead>
               <tr>
                 <th>Env Var</th>
@@ -49,6 +48,5 @@
               </tr>
             </tbody>
           </table>
-		 </div>
     </body>
 </html>
