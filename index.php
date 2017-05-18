@@ -6,30 +6,16 @@
         <title>Welcome Page</title>
     </head>
     <body style="background-color:white">
-	    
-	    <div style="text:align:center;">
-  <table style="margin:0px auto" border="1" width="200" align="center">
-    <tr>
-      <td><b>Invoice number: </b></td>
-    </tr>
-  </table>
-  <br />
-  <table style="margin:0px auto"border="1" width="200" align="center">
-    <tr>
-      <td>Client</td>
-    </tr>
-  </table>
-  <br />
-</div>
-	    
+	    	    
         <div style="display:block;margin-left:auto;margin-right:auto;text-align:center;">
-            <h2>Welcome to </h2>
+            <h2>Welcome to you quick demo application running on</h2>
         </div>
 	<div style="width:400px;height:200px;overflow:hidden;display:block;margin-left:auto;margin-right:auto;">
             <img src="openshift.png" width="400px" height="auto"/>
         </div>
 	
 	    <h2>Application Information</h2>
+	    <p> The server IP <?php echo $_SERVER['SERVER_ADDR'] ?> and the port nulber is <?php echo $_SERVER['SERVER_PORT'] ?> </p>
           <table table align="center>
             <thead>
               <tr>
