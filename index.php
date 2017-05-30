@@ -8,7 +8,7 @@
     <body style="background-color:white">
 	    	    
         <div style="display:block;margin-left:auto;margin-right:auto;text-align:center;">
-            <h2>Welcome to you quick demo application running on</h2>
+            <h2>Welcome to you quick demo application running on </h2>
         </div>
 	<div style="width:400px;height:60px;overflow:hidden;display:block;margin-left:auto;margin-right:auto;">
             <img src="openshift.png" width="400px" height="auto"/>
